@@ -39,7 +39,7 @@ exclude paragraphs in the span element */
 /* Give #div1 and #div2 a border without adding the border to all divs */
 /* --- Combining the divs---*/
 #div1, #div2{
-    border: 1px solid black
+    border: 1px solid black;
 }
 
 
